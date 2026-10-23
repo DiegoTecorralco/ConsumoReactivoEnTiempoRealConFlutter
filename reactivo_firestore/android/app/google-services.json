@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992617618929",
+    "project_id": "consumoreactivoentiemporeal",
+    "storage_bucket": "consumoreactivoentiemporeal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992617618929:android:53ac70132897f32948f850",
+        "android_client_info": {
+          "package_name": "com.example.reactivo_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHyjzcJcyvJ0LAMcunGypVtl7j15k47aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
